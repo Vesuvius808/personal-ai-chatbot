@@ -61,7 +61,7 @@ export default function ChatSidebar({
             strokeLinejoin="round"
             className="mr-2"
           >
-          <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"></path>
+            <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 0 0 1 0-5H20"></path>
           </svg>
           <span className="font-medium">LegalMind</span>
         </div>
@@ -285,7 +285,7 @@ export default function ChatSidebar({
                     strokeLinecap="round"
                     strokeLinejoin="round"
                   >
-                    <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 0 0 1 0-5H20"></path>
+                    <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"></path>
                   </svg>
                   <span>Add Knowledge Base</span>
                 </div>
